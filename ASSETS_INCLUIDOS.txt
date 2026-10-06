@@ -1,0 +1,16 @@
+Budgy V10 - assets incluidos
+
+Marca:
+- assets/budgy-logo-original.png
+- assets/Budgy-logo-mark.png
+- assets/budgy-robot.png
+
+Estados contextuales de Budgy:
+- assets/budgy-advice.png
+- assets/budgy-analysis.png
+- assets/budgy-analyzing.png
+- assets/budgy-calculating.png
+- assets/budgy-good-news.png
+- assets/budgy-movements.png
+- assets/budgy-organizing.png
+- assets/budgy-tip.png
